@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://api.themoviedb.org/3",
+            "request": "launch",
+            "url": "https://api.themoviedb.org/3"
+        }
+    ]
+}
